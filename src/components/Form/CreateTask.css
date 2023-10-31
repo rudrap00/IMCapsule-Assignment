@@ -1,0 +1,74 @@
+.create-task {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.form {
+  margin: 80px;
+  width: 80%;
+}
+
+form {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.labels {
+  width: 45%;
+  margin: 10px;
+}
+
+.labels label {
+  color: #006d77;
+}
+
+.labels input {
+  border: 2.4px solid #006d77;
+  border-radius: 4px;
+  height: 1.6rem;
+  width: 60%;
+  background-color: #ffddd2;
+  color: #006d77;
+}
+
+.labels select {
+  border: 2.4px solid #006d77;
+  border-radius: 4px;
+  height: 2rem;
+  width: 62%;
+  background-color: #ffddd2;
+  color: #006d77;
+}
+
+.label {
+  width: 76%;
+  margin: 10px;
+}
+
+.label label {
+  color: #006d77;
+}
+
+.label input {
+    border: 2.4px solid #006d77;
+    border-radius: 4px;
+    height: 8rem;
+    width: 100%;
+    background-color: #ffddd2;
+    color: #006d77;
+}
+
+.button {
+  margin: 25px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button button {
+  height: 4vh;
+  width: 32vh;
+  border-radius: 4px;
+}

@@ -1,0 +1,32 @@
+.task {
+  background-color: #006d77;
+  width: 80%;
+  border-radius: 7px;
+  padding: 0 10px;
+  margin-top: 16px;
+  color: #ffddd2;
+  display: flex;
+  justify-content: space-between;
+}
+
+.actions {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.status {
+  height: auto;
+  margin-top: 0;
+  padding: 0;
+  margin-bottom: 8px;
+}
+
+button {
+  background-color: #006d77;
+  color: #ffddd2;
+  border: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

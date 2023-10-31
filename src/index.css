@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Economica&family=Grape+Nuts&family=Oswald:wght@300;400&family=Roboto:wght@300;400;500&display=swap");
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #ffddd2;
+  min-width: 320px;
+  min-height: 100vh;
+  font-family: "Roboto", sans-serif;
+}
+
+.center {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+}
+
+.centered-div {
+  background-color: #83c5be;
+  color: #edf6f9;
+  height: 12vh;
+  width: 66%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 3.2px;
+}
